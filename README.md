@@ -1,7 +1,9 @@
 <a id="readme-top"></a>
 
 <!-- Welcome GIF -->
-<img src="Images/terminal.gif" alt="MocSec Cyber Security Terminal Welcome GIF">
+<div align="center">
+  <img src="Images/terminal.gif" alt="MocSec Cyber Security Terminal Welcome GIF">
+</div>
 
 ---
 
