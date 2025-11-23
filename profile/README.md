@@ -174,6 +174,14 @@ You must be:
 
 ### Join the Github Organization
 
+Contact a member of the leadership team and request to be added to the GitHub organization. Please provide the following:
+- Your Full Name
+- UTC ID
+- Github Username
+- Github Email
+
+> For help, please view the following document for [tips to add users to a GitHub organization](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization).
+
 <!--
 1. 
 2. 
