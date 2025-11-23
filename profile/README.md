@@ -48,8 +48,8 @@
         <li><a href="#installation">Join the Github Organization</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!--<li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -191,16 +191,16 @@ Contact a member of the leadership team and request to be added to the GitHub or
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- ROADMAP -->
-## Roadmap
+<!--## Roadmap
 
 - [ ] 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- CONTACT -->
 ## Contact
