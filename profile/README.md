@@ -2,7 +2,7 @@
 
 <!-- Welcome GIF -->
 <div align="center">
-  <img src="Images/terminal.gif" alt="MocSec Cyber Security Terminal Welcome GIF">
+  <img src="terminal.gif" alt="MocSec Cyber Security Terminal Welcome GIF">
 </div>
 
 ---
